@@ -17,3 +17,4 @@ so in some cases the code is intentionally written in a more explicit, step-by-s
 2. [`Guido's Gorgeous Lasagna`](exercises/002-guidos-gorgeous-lasagna/solution.py)
 3. [`Ghost Gobble Arcade Game`](exercises/003-ghost-gobble-arcade-game/solution.py)
 4. [`Currency Exchange`](exercises/004-currency-exchange/solution.py)
+5. [`Meltdown Mitigation`](exercises/005-meltdown-mitigation/solution.py)
