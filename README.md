@@ -12,3 +12,5 @@ However, the aim here is to stay faithful to the learning objectives of each cha
 so in some cases the code is intentionally written in a more explicit, step-by-step manner.
 
 ## Exercises
+
+1. [`Hello World`](exercises/001-hello-world/solution.py)
