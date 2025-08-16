@@ -14,3 +14,4 @@ so in some cases the code is intentionally written in a more explicit, step-by-s
 ## Exercises
 
 1. [`Hello World`](exercises/001-hello-world/solution.py)
+2. [`Guido's Gorgeous Lasagna`](exercises/002-guidos-gorgeous-lasagna/solution.py)
