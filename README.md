@@ -20,3 +20,4 @@ so in some cases the code is intentionally written in a more explicit, step-by-s
 5. [`Meltdown Mitigation`](exercises/005-meltdown-mitigation/solution.py)
 6. [`Black Jack`](exercises/006-black-jack/solution.py)
 7. [`Little Sister's Essay`](exercises/007-little-sisters-essay/solution.py)
+8. [`Little Sister's Vocabulary`](exercises/008-little-sisters-vocabulary/solution.py)
